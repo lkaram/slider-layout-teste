@@ -1,5 +1,5 @@
 {
-  "slider-layout": {
+  "slider-layout-teste": {
     "component": "SliderLayout",
     "composition": "children",
     "allowed": "*"
